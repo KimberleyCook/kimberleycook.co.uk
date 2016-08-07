@@ -14,6 +14,11 @@ h1 {
 	letter-spacing: 2px;
 }
 
+h2 {
+	font-size: 2.25em;
+	margin: 0;
+}
+
 p {
 	margin-top: 0;
 }
@@ -80,6 +85,12 @@ ul.lists > li:before {
 
 .contact {
 	padding-left: 40px;
+}
+
+/*/Articles*/
+
+.article p {
+	font-weight: 300;
 }
 
 /*Media Queries*/
